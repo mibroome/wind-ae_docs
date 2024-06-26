@@ -6,7 +6,7 @@ Wind-AE: Documentation
 .. _Murray-Clay et al. (2009): https://ui.adsabs.harvard.edu/abs/2009ApJ...693...23M/abstract
 
 .. note::
-   This model is valid for upper atmospheres between P~10$^-4$ bars and the Coriolis turning radius (computed self consistently in code, usually a few $R_P$).
+   This model is valid for upper atmospheres between P~10$^{-4}$ bars and the Coriolis turning radius (computed self consistently in code, usually a few $R_P$).
    
 
 
