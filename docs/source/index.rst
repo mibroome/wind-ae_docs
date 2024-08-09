@@ -11,12 +11,14 @@ Wind-AE: Documentation
 
 
 **Wind-AE** is a python-wrapped ``C`` code based on `Numerical Recipes in C`_'s relaxation algorithm. It solves the finite difference versions of steady state ioinization balance, mass, momentum, and energy conservation equations for a hydrodynamic Parker wind. 
-As a relaxation code, it runs quickly, but the relaxation method is sensitive to having a good initial guess for the solution in order to numerically converge to the final solution. With that in mind, we provide a number of starting points for simulations in the ``saves/`` folder and include a python wrapper which handles ramping from the initial guess solution to a final solution that is far from it in parameter space.
+As a relaxation code, it runs quickly, but the relaxation method is sensitive to having a good initial guess for the solution in order to numerically converge to the final solution. 
+
+With that in mind, we provide a number of starting points for simulations in the ``saves/`` folder and include a python wrapper which handles ramping from the initial guess solution to a final solution that is far from it in parameter space.
 
 .. _Numerical Recipes in C: https://numerical.recipes/
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+instructions on :ref:`installation` of the project.
 
 
 
