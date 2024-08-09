@@ -1,17 +1,9 @@
 Installation
 ============
 
-``Wind-AE`` package requirements: ``numpy``, ``scipy``, ``matplotlib``, and
-``flatstar``.
+``Wind-AE`` package requirements: ``numpy``, ``scipy``, ``matplotlib``,
+``pandas``, ``cycler``.
 
-Option 1: Using ``pip`` (stable version)
---------------------------------------------------------------
-
-Simply run the following command:
-
-.. code-block:: bash
-
-   pip install p-winds
 
 Compile from source (development version)
 ---------------------------------------------------
