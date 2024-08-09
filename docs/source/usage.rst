@@ -6,11 +6,11 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use Wind-AE, first install it using pip from within the ``wind_ae/`` folder.
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ python -m pip install -e .
 
 Creating recipes
 ----------------
