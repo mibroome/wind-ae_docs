@@ -1,17 +1,6 @@
 Usage
 =====
 
-.. _installation:
-
-Installation
-------------
-
-To use Wind-AE, first install it using pip from within the ``wind_ae/`` folder.
-
-.. code-block:: console
-
-   (.venv) $ python -m pip install -e .
-
 Creating recipes
 ----------------
 
